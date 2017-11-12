@@ -8,4 +8,6 @@ public class Main {
     int j;
     int branch1;
     int master;
+
+    int master2;
 }
