@@ -5,4 +5,6 @@ public class Main {
     }
     int i;
     int h;
+    int j;
+    int branch1;
 }
