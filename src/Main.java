@@ -7,4 +7,5 @@ public class Main {
     int h;
     int j;
     int branch1;
+    int master;
 }
